@@ -1,4 +1,4 @@
-module github.com/dubbogo/dubbo-go-pixiu-filter
+module github.com/dubbo-go-pixiu/pixiu-api
 
 go 1.14
 

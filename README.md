@@ -4,6 +4,6 @@
 
 ### Introduction
 
-Dubbo-go-proxy-common
+Dubbo-Go-Pixiu API
 
 Apache License, Version 2.0
