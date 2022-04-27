@@ -17,7 +17,7 @@
 
 package filter
 
-import "github.com/dubbogo/dubbo-go-pixiu-filter/pkg/context"
+import "github.com/dubbo-go-pixiu/pixiu-api/pkg/context"
 
 // Filter filter func, filter
 type Filter func(context.Context)
