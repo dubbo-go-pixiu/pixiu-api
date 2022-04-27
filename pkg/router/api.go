@@ -18,7 +18,7 @@
 package router
 
 import (
-	"github.com/dubbogo/dubbo-go-pixiu-filter/pkg/api/config"
+	"github.com/dubbo-go-pixiu/pixiu-api/pkg/api/config"
 )
 
 // API describes the minimum configuration of an RESTful api configure in gateway
